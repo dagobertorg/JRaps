@@ -1,4 +1,6 @@
-package bean;
+package test;
+
+import main.Bankroll;
 
 /**
  * Created by dramirez on 2016-10-10.

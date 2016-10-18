@@ -1,7 +1,10 @@
-package bean;
+package main;
+
+import games.AnySeven;
+import games.FieldBet;
+import games.PassLine;
 
 import java.util.Scanner;
-import java.util.concurrent.SynchronousQueue;
 
 /**
  * Created by dramirez on 2016-10-11.

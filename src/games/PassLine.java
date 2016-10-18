@@ -1,8 +1,9 @@
-package bean;
+package games;
 
-import java.nio.channels.Pipe;
+import main.Bankroll;
+import main.TheDie;
+
 import java.util.Scanner;
-import java.util.logging.SocketHandler;
 
 /**
  * Created by dramirez on 2016-10-10.

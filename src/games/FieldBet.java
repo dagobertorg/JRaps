@@ -1,4 +1,7 @@
-package bean;
+package games;
+
+import main.Bankroll;
+import main.TheDie;
 
 import java.util.Scanner;
 

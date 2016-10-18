@@ -1,4 +1,4 @@
-package bean;
+package main;
 
 /**
  * Created by dramirez on 2016-10-10.
