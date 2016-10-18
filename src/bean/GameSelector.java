@@ -1,8 +1,8 @@
-package main;
+package bean;
 
-import games.AnySeven;
-import games.FieldBet;
-import games.PassLine;
+import bean.AnySeven;
+import bean.FieldBet;
+import bean.PassLine;
 
 import java.util.Scanner;
 

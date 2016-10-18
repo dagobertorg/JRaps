@@ -1,4 +1,6 @@
-package main;
+package bean;
+
+import bean.GameSelector;
 
 /**
  * Created by dramirez on 2016-10-10.

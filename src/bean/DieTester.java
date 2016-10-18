@@ -1,6 +1,6 @@
-package test;
+package bean;
 
-import main.TheDie;
+import bean.TheDie;
 
 /**
  * Created by dramirez on 2016-10-10.
